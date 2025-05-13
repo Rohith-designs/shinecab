@@ -1,0 +1,7 @@
+Array
+(
+    [name] => Rohith
+    [email] => adaka001@gmail.com
+    [phone] => 9346189212
+    [password] => 123
+)
